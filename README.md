@@ -48,3 +48,5 @@ The model is evaluated using:
 
 ## 6. Conclusion
 This project demonstrates how Logistic Regression can be applied to a housing dataset for binary classification. It predicts whether a house belongs to the Low Price or High Price category based on its features.
+
+https://github.com/complexiota.
